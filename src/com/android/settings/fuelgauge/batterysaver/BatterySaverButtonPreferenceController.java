@@ -127,7 +127,7 @@ public class BatterySaverButtonPreferenceController extends TogglePreferenceCont
     @Override
     public void onBatteryChanged(boolean pluggedIn) {
         if (mPreference != null) {
-            mPreference.setEnabled(!pluggedIn);
+            mPreference.setEnabled(true);
         }
     }
 }
