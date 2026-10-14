@@ -47,7 +47,7 @@
             android:key="sleep_mode_wifi_toggle"
             android:title="@string/sleep_mode_wifi_toggle_title"
             android:summary="@string/sleep_mode_wifi_toggle_summary"
-            android:defaultValue="true" />
+            android:defaultValue="false" />
 
         <org.evolution.settings.preferences.SecureSettingSwitchPreference
             android:key="sleep_mode_bluetooth_toggle"
