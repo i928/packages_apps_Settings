@@ -399,7 +399,7 @@
     <string name="sleep_mode_schedule_mixed_sunrise">Turns on from a custom time to sunrise</string>
     <string name="sleep_mode_toggles_title">Toggles</string>
     <string name="sleep_mode_wifi_toggle_title">Turn off Wi-Fi</string>
-    <string name="sleep_mode_wifi_toggle_summary">Disable Wi-Fi when Sleep mode is turned on</string>
+    <string name="sleep_mode_wifi_toggle_summary">Turn off Wi-Fi while the screen is off and the phone isn\'t charging. It turns back on when you use the phone</string>
     <string name="sleep_mode_bluetooth_toggle_title">Turn off Bluetooth</string>
     <string name="sleep_mode_bluetooth_toggle_summary">Disable Bluetooth when Sleep mode is turned on</string>
     <string name="sleep_mode_cellular_toggle_title">Turn off Mobile data</string>
